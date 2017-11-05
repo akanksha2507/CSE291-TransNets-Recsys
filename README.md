@@ -1,4 +1,4 @@
-# CSE291-Transnet-Recsys
+# CSE291-TransNets-Recsys
 
-Possible extensions to improve Transnets for rating prediction
+Possible extensions to improve TransNets for rating prediction
 
