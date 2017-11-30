@@ -190,7 +190,7 @@ def test(sess, dcmf, batch_iter):
 
         i += 1
 		
-		print('test step',i,':',full_mse)
+        print('test step',i,':',full_mse)
 
     oth_mse = oth_mse / tot
     full_mse = full_mse / tot
